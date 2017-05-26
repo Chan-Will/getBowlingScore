@@ -1,0 +1,2 @@
+# getBowlingScore
+ThoughtWorks Paper Datail
